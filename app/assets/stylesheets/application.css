@@ -1,0 +1,21 @@
+a {
+      text-decoration: none;
+      color: white;
+}
+
+li {
+	float: left; 
+	list-style: none;
+	padding: 33px 20px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header {
+	background-color: #FF0461;
+	height: 90px;
+}
